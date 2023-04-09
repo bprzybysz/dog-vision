@@ -13,6 +13,7 @@ __pycache__/
 .cache/
 .session/
 log/
+/data/logs/
 output/
 .lock
 .tmp
@@ -41,5 +42,3 @@ models/
 # Ignore system files
 .DS_Store
 Thumbs.db
-
-
