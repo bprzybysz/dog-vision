@@ -1,6 +1,7 @@
 # Compiled Python files
 __pycache__/
 *.py[cod]
+*.DS_Store
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -40,5 +41,4 @@ models/
 *.tar.gz
 
 # Ignore system files
-.DS_Store
 Thumbs.db
