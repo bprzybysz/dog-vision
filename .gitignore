@@ -7,7 +7,7 @@ __pycache__/
 
 # Excluding data catalogue source is enlisted in `data` section
 /data/
-./end-to-end-dog-vision.ipynb
+/end-to-end-dog-vision.ipynb
 
 # DataSpell-specific files
 .cache/
@@ -41,4 +41,5 @@ models/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
 
