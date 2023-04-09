@@ -1,0 +1,43 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Excluding data catalogue source is enlisted in `data` section
+/data/
+
+# DataSpell-specific files
+.cache/
+.session/
+log/
+output/
+.lock
+.tmp
+.env
+.idea/
+__pypackages__/
+__pytest_cache__/
+__coverage__/
+__mypy_cache__/
+__pyright_cache__/
+__jupyter_cache__/
+*.code-workspace
+
+# Ignore data files
+data/
+datasets/
+models/
+*.npy
+*.h5
+*.pb
+*.ckpt
+*.pth
+*.pt
+*.tar.gz
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
