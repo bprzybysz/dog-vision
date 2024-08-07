@@ -1,0 +1,15 @@
+name: dog-vision
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - scikit-learn
+  - tensorflow
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - pip
+
